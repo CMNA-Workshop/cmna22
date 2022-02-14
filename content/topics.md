@@ -12,7 +12,7 @@ Nothwithstanding the special theme, we also solicit contributions addressing, bu
 
  Contributions are solicited addressing, but not limited to, the following areas of interest:
 
-* The characteristics of “natural” arguments (e.g. ontological aspects, cognitive issues, legal asepcts).
+* The characteristics of “natural” arguments (e.g. ontological aspects, cognitive issues, legal aspects).
 * The linguistic characteristics of natural argumentation, including discourse markers, sentence format, referring expressions, and style.
 * The generation of natural argument
 * Corpus argumentation results and techniques
