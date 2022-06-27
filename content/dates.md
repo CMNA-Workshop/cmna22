@@ -10,4 +10,4 @@ comments: false
 * Review Period: 11th July 2022 -- 1st August 2022
 * Notification to authors: 5th August 2022
 * Final (Camera Ready) version of papers: 26th August 2022
-* Workshop: 12/13th September 2022 - Final workshop dates to be confirmed by COMMA
+* Workshop: **Monday 12th September 2022**
