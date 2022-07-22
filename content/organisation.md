@@ -30,7 +30,6 @@ School of Computing, Edinburgh Napier University</dd>
 Subject to confirmation...
 <dl>
 
-<dt>Trevor Bench-Capon</dt><dd>University of Liverpool</dd>
 <dt>Elena Cabrio</dt><dd>Université Côte d'Azur, CNRS, Inria, I3S, France</dd>
 <dt>Reva Freedman</dt><dd>Northern Illinois University</dd>
 <dt>Floriana Grasso</dt><dd>University of Liverpool</dd>
