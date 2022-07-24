@@ -27,26 +27,27 @@ School of Computing, Edinburgh Napier University</dd>
 </dl>
 
 # Programme Committee
-Subject to confirmation...
+<!--Subject to confirmation...-->
 <dl>
 
-<dt>Trevor Bench-Capon</dt><dd>University of Liverpool</dd>
-<dt>Elena Cabrio</dt><dd>Université Côte d'Azur, CNRS, Inria, I3S, France</dd>
+<dt>Francielle Alves Vargas</dt><dd>Instituto de Cincias Matemticas e de Computao da Universidade de Sao Paulo (ICMC/USP)</dd>
+<dt>Elena Cabrio</dt><dd>Universite Cote d'Azur, CNRS, Inria, I3S, France</dd>
+<dt>Sylvie Doutre</dt><dd>University of Toulouse 1 - IRIT</dd>
 <dt>Reva Freedman</dt><dd>Northern Illinois University</dd>
-<dt>Floriana Grasso</dt><dd>University of Liverpool</dd>
-<dt>Nancy Green</dt><dd>University of North Carolina Greensboro</dd>
+<dt>Massimiliano Giacomin</dt><dd>University of Brescia</dd>
+<dt>Stella Heras</dt>Universitat Politecnica de Valencia</dd>
+<dt>Helmut Horacek></dt>Saarland University</dd>
+<dt>Mare Koit</dt><dd>University of Tartu</dd>
 <dt>Collin Lynch</dt><dd>North Carolina State University</dd>
-<dt>Fabrizio Macagno</dt><dd>Universidade NOVA de Lisboa</dd>
 <dt>Elena Musi</dt><dd>University of Liverpool</dd>
-<dt>Saint Dizier</dt><dd>Patrick	IRIT-CNRS</dd>
+<dt>Rudi Palmieri</dt><dd>University of Liverpool</dd>
+<dt>Andrea Pazienza</dt><dd>Innovation Lab, Exprivia S.p.A.</dd>
 <dt>Paul Piwek</dt><dd>The Open University</dd>
-<dt>Jodi Schneider</dt><dd>University of Illinois Urbana Champaign</dd>
+<dt>Patrick Saint-Dizier</dt><dd>	IRIT-CNRS</dd>
 <dt>Guillermo R. Simari</dt><dd>Universidad del Sur in Bahia Blanca</dd>
 <dt>Mark Snaith</dt><dd>Robert Gordon University Aberdeen</dd>
 <dt>Marko Tkalcic</dt><dd>University of Primorska</dd>
-<dt>Alice Toniolo</dt><dd>University of St Andrews</dd>
-<dt>Serena Villata</dt><dd>CNRS - Laboratoire d'Informatique, Signaux et Systèmes de Sophia-Antipolis</dd>
-<dt>Simon Wells</dt><dd>Edinburgh Napier University</dd>
+<dt>Serena Villata</dt><dd>CNRS - Laboratoire d'Informatique, Signaux et SystÃ¨mes de Sophia-Antipolis</dd>
 <dt>Tommy Yuan</dt><dd>University of York</dd>
 
 </dl>
