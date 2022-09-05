@@ -14,19 +14,30 @@ We'll publish a full timetable of events and links to papers CMNA'22 closer to t
 * The closing seminar is part of the Ethics of Argumentation seminar series. We'll post a link to join that event to the eventbrite registered participants information in due time.
 -->
 
-<!--
-# Session #1 (Thursday September 2nd, 15:00-17:30 BST)
+
+<!--# Session #1 (Thursday September 2nd, 15:00-17:30 BST)-->
 
 |  Authors | Title  | Time  |
 |----------|---|---|
-| | **Introductory Remarks** | 15:00-15:15 |
-|  Annalena Aicher, Wolfgang Minker and Stefan Ultes | [Determination of Reflective User Engagement in Argumentative Dialogue Systems](http://ceur-ws.org/Vol-2937/paper1.pdf)  | 15:15-15:45  | 
-|  Mark Snaith and Simon Wells | [Towards a Declarative Approach to Constructing Dialogue Games](http://ceur-ws.org/Vol-2937/paper2.pdf)  |  15:45-16:15 | 
-| | **BREAK/COFFEE/CHAT** | 16:15-16:30 | 
-|  Nancy Green | [Some Argumentative Uses of the Rhetorical Figure of Antithesis in Environmental Science Policy Articles](http://ceur-ws.org/Vol-2937/paper3.pdf) | 16:30-17:00 |
-| | **CLOSING** | 17:00-17:05 |
-| | **INFORMAL CHAT** | 17:05-17:30 |
--->
+| Workshop Organisers | **INTRODUCTORY REMARKS** | 09:00-09:10 |
+| Annemarie Borg and Floris Bex | Modeling Contrastiveness in Argumentation (long)  | 09:10-09:40  | 
+| Elfia Bezou Vrakatseli, Oana Cocarascu and Sanjay Modgil | Towards an Argument Scheme Classification for Ethical Reasoning  (short)  | 09:30-10:00 |
+| Simon Wells and Mark Snaith | Reconsidering RepStat Rules in Dialectical Games (long) | 10:00-10:30 |
+| ALL | **BREAK/COFFEE/CHAT** | 10:30-11:00 | 
+| Jack Mumford, Katie Atkinson and Trevor Bench-Capon | Representing and Extracting Support via Complement-based Argumentation Frameworks (long) | 11:00-11:30 |
+| Adam Wyner and Tomasz Zurek | Towards a Formal Framework for Motivated Argumentation and the Roots of Conflict (long) | 11:30-12:00 |
+| Charles Stubbs and Tommy Yuan | Towards an Argument Knowledge Base for Autonomous Debating Systems (long) | 12:00-12:30 |
+| ALL | LUNCH | 12:45-14:00 |
+| Lucas Doust Alba and Tommy Yuan | Leveraging BERT Encodings for Open-Domain Stance Classification (abstract) | 14:00-14:15 |
+| Costanza Lucchini, Andrea Rocci and Giulia D'Agostino | Annotating argumentation within questions.  Prefaced questions as a genre specific argumentative pattern in earnings conference calls (short) | 14:15-14:35 |
+| Olena Yaskorska-Shah, Andrea Rocci and Chris Reed | Conversation shaping questions: a taxonomy used for mapping argumentative dialogues in financial discourse (long) | 14:35-15:05 |
+| Giulia D'Agostino | “(so long, and) thanks for all the color”.  Requests of elaboration and answers they trigger in Earnings Conference Calls (short)| 15:05-15:25 |
+| ALL | **BREAK/COFFEE/CHAT** | 15:45-16:10 |
+| Muhammad Tawsif Sazid and Robert Mercer | A Unified Representation and Deep Learning Architecture for Argumentation Mining of Students' Persuasive Essays (long) | 16:10-16:40 |
+| Noa Brandel, Royi Lachmy, Noa Yomtovyan, Reut Tsarfaty and Baruch Schwarz | Annotation Scheme for Aggregated Argumentation in Online Educational Forums (abstract) | 16:40-16:50 |
+| Workshop Organisers | **CLOSING SESSION** | 16:50-17:00 |
+| PLENARY | **INFORMAL CHAT** | 17:00-17:30 |
+
 
 <!--
 # Invited Speaker (13:45-14:30 CET)
