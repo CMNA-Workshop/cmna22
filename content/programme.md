@@ -25,7 +25,7 @@ comments: false
 | Simon Wells and Mark Snaith | [Reconsidering RepStat Rules in Dialectical Games](/cmna22/assets/papers/4987-Wells_Snaith.pdf) (long) | 10:00-10:30 |
 | ALL | **BREAK/COFFEE/CHAT** | 10:30-11:00 | 
 | Jack Mumford, Katie Atkinson and Trevor Bench-Capon | [Representing and Extracting Support via Complement-based Argumentation Frameworks](/cmna22/assets/papers/4791-Mumford_Atkinson_Bench-Capon.pdf) (long) | 11:00-11:30 |
-| Adam Wyner and Tomasz Zurek | Towards a Formal Framework for Motivated Argumentation and the Roots of Conflict (long) | 11:30-12:00 |
+| Adam Wyner and Tomasz Zurek | [Towards a Formal Framework for Motivated Argumentation and the Roots of Conflict](/cmna22/assets/papers/8410-Zurek_Wyner.pdf) (long) | 11:30-12:00 |
 | Charles Stubbs and Tommy Yuan | Towards an Argument Knowledge Base for Autonomous Debating Systems (long) | 12:00-12:30 |
 | ALL | LUNCH | 12:45-14:00 |
 | Lucas Doust Alba and Tommy Yuan | Leveraging BERT Encodings for Open-Domain Stance Classification (abstract) | 14:00-14:15 |
