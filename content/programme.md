@@ -20,7 +20,7 @@ comments: false
 |  Authors | Title  | Time  |
 |----------|---|---|
 | Workshop Organisers | **INTRODUCTORY REMARKS** | 09:00-09:10 |
-| Annemarie Borg and Floris Bex | Modeling Contrastiveness in Argumentation (long)  | 09:10-09:40  | 
+| Annemarie Borg and Floris Bex | [Modeling Contrastiveness in Argumentation](/cmna22/assets/papers/4029-Borg_Bex.pdf) (long)  | 09:10-09:40  | 
 | Elfia Bezou Vrakatseli, Oana Cocarascu and Sanjay Modgil | Towards an Argument Scheme Classification for Ethical Reasoning  (short)  | 09:30-10:00 |
 | Simon Wells and Mark Snaith | Reconsidering RepStat Rules in Dialectical Games (long) | 10:00-10:30 |
 | ALL | **BREAK/COFFEE/CHAT** | 10:30-11:00 | 
