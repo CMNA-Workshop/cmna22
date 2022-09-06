@@ -31,7 +31,7 @@ comments: false
 | Lucas Doust Alba and Tommy Yuan | [Leveraging BERT Encodings for Open-Domain Stance Classification](/cmna22/assets/papers/Alba-Yuan.pdf) (abstract) | 14:00-14:15 |
 | Costanza Lucchini, Andrea Rocci and Giulia D'Agostino | [Annotating argumentation within questions.  Prefaced questions as a genre specific argumentative pattern in earnings conference calls](/cmna22/assets/papers/6602-DAgostino.pdf) (short) | 14:15-14:35 |
 | Olena Yaskorska-Shah, Andrea Rocci and Chris Reed | [Conversation shaping questions: a taxonomy used for mapping argumentative dialogues in financial discourse](/cmna22/assets/papers/9555-Yaskorska-Shah_Rocci_Reed.pdf) (long) | 14:35-15:05 |
-| Giulia D'Agostino | “(so long, and) thanks for all the color”.  Requests of elaboration and answers they trigger in Earnings Conference Calls (short)| 15:05-15:25 |
+| Giulia D'Agostino | [“(so long, and) thanks for all the color”.  Requests of elaboration and answers they trigger in Earnings Conference Calls](/cmna22/assets/papers/6602-DAgostino.pdf) (short)| 15:05-15:25 |
 | ALL | **BREAK/COFFEE/CHAT** | 15:45-16:10 |
 | Muhammad Tawsif Sazid and Robert Mercer | A Unified Representation and Deep Learning Architecture for Argumentation Mining of Students' Persuasive Essays (long) | 16:10-16:40 |
 | Noa Brandel, Royi Lachmy, Noa Yomtovyan, Reut Tsarfaty and Baruch Schwarz | Annotation Scheme for Aggregated Argumentation in Online Educational Forums (abstract) | 16:40-16:50 |
