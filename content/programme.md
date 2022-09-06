@@ -26,7 +26,7 @@ comments: false
 | ALL | **BREAK/COFFEE/CHAT** | 10:30-11:00 | 
 | Jack Mumford, Katie Atkinson and Trevor Bench-Capon | [Representing and Extracting Support via Complement-based Argumentation Frameworks](/cmna22/assets/papers/4791-Mumford_Atkinson_Bench-Capon.pdf) (long) | 11:00-11:30 |
 | Adam Wyner and Tomasz Zurek | [Towards a Formal Framework for Motivated Argumentation and the Roots of Conflict](/cmna22/assets/papers/8410-Zurek_Wyner.pdf) (long) | 11:30-12:00 |
-| Charles Stubbs and Tommy Yuan | Towards an Argument Knowledge Base for Autonomous Debating Systems (long) | 12:00-12:30 |
+| Charles Stubbs and Tommy Yuan | [Towards an Argument Knowledge Base for Autonomous Debating Systems](/cmna22/assets/papers/0273-Stubbs_Yuan.pdf) (long) | 12:00-12:30 |
 | ALL | LUNCH | 12:45-14:00 |
 | Lucas Doust Alba and Tommy Yuan | Leveraging BERT Encodings for Open-Domain Stance Classification (abstract) | 14:00-14:15 |
 | Costanza Lucchini, Andrea Rocci and Giulia D'Agostino | Annotating argumentation within questions.  Prefaced questions as a genre specific argumentative pattern in earnings conference calls (short) | 14:15-14:35 |
