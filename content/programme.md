@@ -28,7 +28,7 @@ comments: false
 | Adam Wyner and Tomasz Zurek | [Towards a Formal Framework for Motivated Argumentation and the Roots of Conflict](/cmna22/assets/papers/8410-Zurek_Wyner.pdf) (long) | 11:30-12:00 |
 | Charles Stubbs and Tommy Yuan | [Towards an Argument Knowledge Base for Autonomous Debating Systems](/cmna22/assets/papers/0273-Stubbs_Yuan.pdf) (long) | 12:00-12:30 |
 | ALL | LUNCH | 12:45-14:00 |
-| Lucas Doust Alba and Tommy Yuan | Leveraging BERT Encodings for Open-Domain Stance Classification (abstract) | 14:00-14:15 |
+| Lucas Doust Alba and Tommy Yuan | [Leveraging BERT Encodings for Open-Domain Stance Classification](/cmna22/assets/papers/Alba-Yuan.pdf) (abstract) | 14:00-14:15 |
 | Costanza Lucchini, Andrea Rocci and Giulia D'Agostino | Annotating argumentation within questions.  Prefaced questions as a genre specific argumentative pattern in earnings conference calls (short) | 14:15-14:35 |
 | Olena Yaskorska-Shah, Andrea Rocci and Chris Reed | Conversation shaping questions: a taxonomy used for mapping argumentative dialogues in financial discourse (long) | 14:35-15:05 |
 | Giulia D'Agostino | “(so long, and) thanks for all the color”.  Requests of elaboration and answers they trigger in Earnings Conference Calls (short)| 15:05-15:25 |
