@@ -22,7 +22,7 @@ comments: false
 | Workshop Organisers | **INTRODUCTORY REMARKS** | 09:00-09:10 |
 | Annemarie Borg and Floris Bex | [Modeling Contrastiveness in Argumentation](/cmna22/assets/papers/4029-Borg_Bex.pdf) (long)  | 09:10-09:40  | 
 | Elfia Bezou Vrakatseli, Oana Cocarascu and Sanjay Modgil | [Towards an Argument Scheme Classification for Ethical Reasoning](/cmna22/assets/papers/0939-Bezou-Vrakatseli_Cocarascu_Modgil.pdf)  (short)  | 09:30-10:00 |
-| Simon Wells and Mark Snaith | Reconsidering RepStat Rules in Dialectical Games (long) | 10:00-10:30 |
+| Simon Wells and Mark Snaith | [Reconsidering RepStat Rules in Dialectical Games](/cmna22/assets/papers/4987-Wells_Snaith.pdf) (long) | 10:00-10:30 |
 | ALL | **BREAK/COFFEE/CHAT** | 10:30-11:00 | 
 | Jack Mumford, Katie Atkinson and Trevor Bench-Capon | Representing and Extracting Support via Complement-based Argumentation Frameworks (long) | 11:00-11:30 |
 | Adam Wyner and Tomasz Zurek | Towards a Formal Framework for Motivated Argumentation and the Roots of Conflict (long) | 11:30-12:00 |
