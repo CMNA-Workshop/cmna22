@@ -34,7 +34,7 @@ comments: false
 | Giulia D'Agostino | [“(so long, and) thanks for all the color”.  Requests of elaboration and answers they trigger in Earnings Conference Calls](/cmna22/assets/papers/6602-DAgostino.pdf) (short)| 15:05-15:25 |
 | ALL | **BREAK/COFFEE/CHAT** | 15:45-16:10 |
 | Muhammad Tawsif Sazid and Robert Mercer | [A Unified Representation and Deep Learning Architecture for Argumentation Mining of Students' Persuasive Essays](/cmna22/assets/papers/3017-Sazid_Mercer.pdf) (long) | 16:10-16:40 |
-| Noa Brandel, Royi Lachmy, Noa Yomtovyan, Reut Tsarfaty and Baruch Schwarz | Annotation Scheme for Aggregated Argumentation in Online Educational Forums (abstract) | 16:40-16:50 |
+| Noa Brandel, Royi Lachmy, Noa Yomtovyan, Reut Tsarfaty and Baruch Schwarz | [Annotation Scheme for Aggregated Argumentation in Online Educational Forums](/cmna22/assets/papers/Brandel-Lachmy-Yomtovyan-Tsarfaty-Schwarz--Annotation-Scheme-for-Aggregated-Argumentation-in-Online-Educational-Forums.pdf) (abstract) | 16:40-16:50 |
 | Workshop Organisers | **CLOSING SESSION** | 16:50-17:00 |
 | PLENARY | **INFORMAL CHAT** | 17:00-17:30 |
 
