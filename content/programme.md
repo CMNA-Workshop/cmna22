@@ -39,6 +39,8 @@ comments: false
 | PLENARY | **INFORMAL CHAT** | 17:00-17:30 |
 
 
+Long & short papers have been published as archival proceedings on the [CEUR Workshop Proceedings website](http://ceur-ws.org/) in [volume #3205](http://ceur-ws.org/Vol-3205/).
+
 <!--
 # Invited Speaker (13:45-14:30 CET)
 
