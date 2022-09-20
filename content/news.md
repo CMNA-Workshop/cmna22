@@ -13,6 +13,7 @@ comments: false
 * [2021.06.23] Free registration now open through [Eventbrite](https://www.eventbrite.com/e/cmna-xxi-the-21st-workshop-on-computational-models-of-natural-argument-tickets-160894310213)
 -->
 
+* [2022.09.09] CEUR Volume #3205 published to the [CEUR Workshop Proceedings Site](http://ceur-ws.org/Vol-3205/).
 * [2022.09.09] Final papers (long, short, abstract, posters) published to the [programme page](/cmna22/programme).
 * [2022.08.06] Final call for papers is available  (& [downloadable as a PDF](/cmna22/assets/cfp/cfp2.pdf)))
 * [2022.08.06] Dates Updated & Extended
